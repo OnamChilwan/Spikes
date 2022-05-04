@@ -1,4 +1,5 @@
 using MinimalApi.Commands;
+using MinimalApi.Entities;
 using MinimalApi.Models;
 using MinimalApi.Queries;
 

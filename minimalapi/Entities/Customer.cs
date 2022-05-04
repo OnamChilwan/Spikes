@@ -1,6 +1,6 @@
-namespace MinimalApi.Models
+namespace MinimalApi.Entities
 {
-    public class Customer
+    public record Customer
     {
         public string Id { get; set; }
 

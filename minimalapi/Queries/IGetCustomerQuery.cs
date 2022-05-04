@@ -1,3 +1,4 @@
+using MinimalApi.Entities;
 using MinimalApi.Models;
 
 namespace MinimalApi.Queries;
